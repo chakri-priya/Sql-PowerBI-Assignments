@@ -191,6 +191,6 @@ avg(accel), median(accel), stddev(accel) from car_details;
 Horsepower: The mean is higher than the median, which means most cars have lower horsepower, but a few powerful cars increase the average. The high standard deviation shows that there's a lot of variation in horsepower among the cars.
 Weight: The mean is higher than the median , suggesting that some heavy cars are pushing the average weight up. The large standard deviation means there is a wide range of car weights, with both light and heavy cars in the data.
 
-Mean: Reflects the average value.   
+Mean: The average value.   
 Median: The middle value.
 Standard Deviation: Measures variability. 
